@@ -7,21 +7,20 @@ Workshop goals:
 
 --------------- 
 
-Links to example projects: 
+##Links to example projects: 
 
 
 --------------- 
-Workshop data: 
+##Workshop data: 
 
 --------------- 
-Workshop slides: 
+##Workshop slides: 
 
 --------------- 
-Additional resources: 
-Table join instructions
-NHGIS census data 
+##Additional resources: 
+Table join instructions 
+NHGIS census data: https://www.nhgis.org/ 
 Natural earth data: https://www.naturalearthdata.com/
-
 
 
 --------------- 
