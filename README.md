@@ -1,9 +1,9 @@
 # QGIS Workshop: Mapping Prejudice in Nashville's infrastructure 
 
 Workshop goals:
-    Understand the historic and contemporary links between structural   racism and its manifestations in the built environment, and the potential of using mapping technologies to explore those relationships  
-    Develop a basic understanding of how to use QGIS to visualize spatial data, as well as foundational cartographic design choices 
-    Access additional resources to develop independent mapping projects 
+    #1 1Understand the historic and contemporary links between structural   racism and its manifestations in the built environment, and the potential of using mapping technologies to explore those relationships  
+    #2 Develop a basic understanding of how to use QGIS to visualize spatial data, as well as foundational cartographic design choices 
+    #3 Access additional resources to develop independent mapping projects 
 
 
 
