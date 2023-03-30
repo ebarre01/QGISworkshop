@@ -5,27 +5,28 @@ Workshop goals:
 * Develop a basic understanding of how to use QGIS to visualize spatial data, as well as foundational cartographic design choices 
 * Access additional resources to develop independent mapping projects 
 
---------------- 
-
 ## Links to example projects: 
 
 * Mapping prejudice: https://mappingprejudice.umn.edu/
 * Redlining louisville: https://lojic.maps.arcgis.com/apps/MapSeries/index.html?appid=e4d29907953c4094a17cb9ea8f8f89de
 * Chicago million dollar blocks: https://chicagosmilliondollarblocks.com/
 * Interstate highway: https://www.nbcnews.com/specials/america-highways-inequality/
+* Anti-eviction mapping project: https://antievictionmap.com/
+* UCLA Luskin Institute of Inequality and Democracy: https://challengeinequality.luskin.ucla.edu/property-police/
 
---------------- 
+
 ## Workshop data: 
 
---------------- 
+
 ## Workshop slides: 
 
---------------- 
+
 ## Additional resources: 
+
 Table join instructions 
 NHGIS census data: https://www.nhgis.org/ 
 Natural earth data: https://www.naturalearthdata.com/
-Red lining: https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore
+Red lining boundaries: https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore
 
 
 
