@@ -47,8 +47,8 @@ Data sources:
 Tech support: 
 * Table join instructions: 
 
-Design support: 
-* Color schemes: https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+Design support / inspiration: 
+* [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 
 
 
