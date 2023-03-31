@@ -42,9 +42,10 @@ Nashville / Tennessee focused:
 Within the [data](data/) folder you'll find the following datasets: 
 
 Demographic data: 
-* Shapefile contatining census tract boundaries for 2010 [_CT2010_](data/CT2010/)
-* CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts 
-* GEOJSON containing select demographic data (race, income, education, renter) for 2021 (ACS 5 yr estimates), at the census block group level 
+* [Dem2021BG](data/demographics/Dem2021BG.geojson) = GEOJSON containing select demographic data (race, income, education, renter) for 2021 (ACS 5 yr estimates), at the census block group level
+Table Join datasets: 
+* [CT2010](data/demographics/tableJoin/CT2010/) = shapefile contatining census tract boundaries for 2010
+* [nhgis_RaceCT](data/demographics/tableJoin/nhgis_RaceCT.csv) = CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts 
 
 Housing & Evictions:
 * [CodeEnf](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinatess 
@@ -55,14 +56,14 @@ Housing & Evictions:
 * [subhousing](data/housing/mdha.geojson) = GEOJSON containing locations of subsidized housing
 
 Police data: 
-* CSV file containing police vehicle stops for 2022, with lat and long coordinates. 
-* GEOJSON containting reported police incidents 2020
+* [policeReports](data/police/policeReports.geojson) = EOJSON containting reported police incidents 2020 
+* [policeVehStops2022](data/police/PoliceVehStops2022.csv) = CSV file containing police vehicle stops for 2022, with lat and long coordinates 
 
 Extra data:
-* GEOJSON containting streets  
-* GEOJSON containting highways 
-* GEOJSON containting Metro Parks 
-* GEOJSON containting the outline of Davidson County 
+* [DavidsonCnty](data/extra/DavidsonCnty.geojson) = GEOJSON containting the outline of Davidson County 
+* [HighwaysDC](data/extra/HighwaysDC.geojson) = GEOJSON containting highways 
+* [MetroParks](data/extra/MetroParks.geojson) = GEOJSON containting Metro Parks 
+* [StreetsDC](data/extra/StreetsDC.geojson) = GEOJSON containting streets  
 
 Note: GEOJSONS are like shapefiles, but are condensed into one file. Thus, they are easier to managage, though you still need to protect your file paths!  
 
@@ -75,7 +76,7 @@ Data sources:
 * [Redlining boundaries](https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore)
 
 Tech support: 
-* Download and install QGIS
+* [Download and install QGIS](https://docs.google.com/document/d/1E-CC5uFhqbHIgEhzM1LlcSuYSy4vJfr7VQvFQj_OOhc/edit)
 * Table join instructions: 
 * [Converting text attribute values to number](https://mapscaping.com/converting-text-to-numbers-in-qgis/)
 
