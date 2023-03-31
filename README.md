@@ -37,12 +37,12 @@ Nashville / Tennessee focused:
 
 ## Workshop slides: 
 
-The slides for the workshop can be found [here.](https://www.canva.com/design/DAFerwZ2bvE/ZI7wwOpSGka9PszxWtor_w/view?utm_content=DAFerwZ2bvE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-)
+The slides for the workshop can be found [here](https://www.canva.com/design/DAFerwZ2bvE/ZI7wwOpSGka9PszxWtor_w/view?utm_content=DAFerwZ2bvE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+).
 
 ## Workshop data: 
 
-Within the [data](data/) folder you'll find the following datasets: 
+Within the data folder you'll find the following datasets: 
 
 Demographic data: 
 * [Dem2021BG](data/demographics/Dem2021BG.geojson) = GEOJSON containing select demographic data (race, income, education, rental households) for 2021 (ACS 5 yr estimates), at the census block group level
@@ -50,7 +50,9 @@ Table Join datasets:
 * [CT2010](data/demographics/tableJoin/CT2010/) = shapefile containing census tract boundaries for 2010
 * [nhgis_RaceCT](data/demographics/tableJoin/nhgis_RaceCT.csv) = CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts (there is a also a .csvt file that accompnies this file)
 
-Housing & Evictions:
+wht blk asn
+
+Housing & Evictions data:
 * [CodeEnf](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinates
 * [EvctRatesBG](data/housing/EvctRatesBG.geojson) = GEOJSON containing eviction rates from 2001 - 2016, at the block group level 
 * [Evictions2021](data/housing/Evictions2021.csv) = CSV file containing a random sample of evictions from 2021-2022, with lat and long coordinates
@@ -83,6 +85,8 @@ Tech support:
 * [Download and install QGIS](https://docs.google.com/document/d/1E-CC5uFhqbHIgEhzM1LlcSuYSy4vJfr7VQvFQj_OOhc/edit)
 * [Table join instructions](QGISTableJoins_2023.pdf) 
 * [Converting text attribute values to number](https://mapscaping.com/converting-text-to-numbers-in-qgis/)
+* Creating a [dot density map](https://youtu.be/TOY_7xKtTcU) with demographic data 
+
 
 Design support / inspiration: 
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
