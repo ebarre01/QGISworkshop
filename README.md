@@ -37,8 +37,8 @@ Nashville / Tennessee focused:
 
 ## Workshop slides: 
 
-The content slides for the workshop can be found [here.](https://www.canva.com/design/DAFerwZ2bvE/ZI7wwOpSGka9PszxWtor_w/view?utm_content=DAFerwZ2bvE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-) 
+The slides for the workshop can be found [here.](https://www.canva.com/design/DAFerwZ2bvE/ZI7wwOpSGka9PszxWtor_w/view?utm_content=DAFerwZ2bvE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+)
 
 ## Workshop data: 
 
