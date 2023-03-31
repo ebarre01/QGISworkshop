@@ -48,8 +48,8 @@ Demographic data:
 
 Housing & Evictions:
 * [CodeEnf](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinatess 
-* [EvctRatesBG](data/housing/EvctRatesBG.geojson) = GEOJSON containing eviction rates 2001 - 2016, at the block group level 
-* [Evictions2021](data/housing/Evictions2021.csv) = CSV file containing a random sample of evictions 2021-2022, with lat and long coordinates
+* [EvctRatesBG](data/housing/EvctRatesBG.geojson) = GEOJSON containing eviction rates from 2001 - 2016, at the block group level 
+* [Evictions2021](data/housing/Evictions2021.csv) = CSV file containing a random sample of evictions from 2021-2022, with lat and long coordinates
 * [HOLC](data/housing/HOLC.geojson) = GEOJSON containing the HOLC (redlining) boundaries 
 * [mdha](data/housing/mdha.geojson) = GEOJSON containing locations of MDHA owned properties (and vacant land)
 * [subhousing](data/housing/mdha.geojson) = GEOJSON containing locations of subsidized housing
