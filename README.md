@@ -17,18 +17,18 @@ Part 2:
 
 ## Links to example mapping projects: 
 
-* Mapping prejudice: https://mappingprejudice.umn.edu/
-* Redlining louisville: https://lojic.maps.arcgis.com/apps/MapSeries/index.html?appid=e4d29907953c4094a17cb9ea8f8f89de
-* Chicago million dollar blocks: https://chicagosmilliondollarblocks.com/
-* LA million dollar hoods: https://milliondollarhoods.pre.ss.ucla.edu/
-* Interstate highway construction: https://www.nbcnews.com/specials/america-highways-inequality/
-* Anti-eviction mapping project: https://antievictionmap.com/
-* UCLA Luskin Institute of Inequality and Democracy: https://challengeinequality.luskin.ucla.edu/property-police/
+* [Mapping prejudice](https://mappingprejudice.umn.edu/)
+* [Redlining louisville](https://lojic.maps.arcgis.com/apps/MapSeries/index.html?appid=e4d29907953c4094a17cb9ea8f8f89de)
+* [Chicago million dollar blocks](https://chicagosmilliondollarblocks.com/)
+* [LA million dollar hoods](https://milliondollarhoods.pre.ss.ucla.edu/)
+* [Interstate highway construction](https://www.nbcnews.com/specials/america-highways-inequality/)
+* [Anti-eviction mapping project](https://antievictionmap.com/)
+* [UCLA Luskin Institute of Inequality and Democracy](https://challengeinequality.luskin.ucla.edu/property-police/)
 
 Nashville / Tennessee focused:
-* Housing segregation: https://storymaps.arcgis.com/stories/050e09fabed0474b9687525fbc4e4c9a
-* Tennessee's African American Neighborhoods: https://tnlibarchives.maps.arcgis.com/apps/MapSeries/index.html?appid=8dba65584072450ca8928a5f3408373f
-* Landscape of Liberation: https://tnmap.tn.gov/civilwar/freedmen/
+* [Housing segregation](https://storymaps.arcgis.com/stories/050e09fabed0474b9687525fbc4e4c9a)
+* [Tennessee's African American Neighborhoods](https://tnlibarchives.maps.arcgis.com/apps/MapSeries/index.html?appid=8dba65584072450ca8928a5f3408373f)
+* [Landscape of Liberation](https://tnmap.tn.gov/civilwar/freedmen/)
 
 
 ## Workshop slides: 
