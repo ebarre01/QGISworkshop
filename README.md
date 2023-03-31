@@ -1,4 +1,4 @@
-# QGIS Workshop: Mapping prejudice in Nashville's infrastructure 
+# QGIS Workshop: Mapping prejudice in Nashville
 
 Workshop objectives:
 * Understand the historic and contemporary links between structural   racism and its manifestations in the built environment, and the potential of using mapping technologies to explore those relationships  
@@ -37,15 +37,18 @@ Nashville / Tennessee focused:
 
 ## Workshop slides: 
 
+https://www.canva.com/design/DAFerwZ2bvE/ZI7wwOpSGka9PszxWtor_w/view?utm_content=DAFerwZ2bvE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
 ## Workshop data: 
 
 Within the [data](data/) folder you'll find the following datasets: 
 
 Demographic data: 
-* [Dem2021BG](data/demographics/Dem2021BG.geojson) = GEOJSON containing select demographic data (race, income, education, renter) for 2021 (ACS 5 yr estimates), at the census block group level
+* [Dem2021BG](data/demographics/Dem2021BG.geojson) = GEOJSON containing select demographic data (race, income, education, rental households) for 2021 (ACS 5 yr estimates), at the census block group level
 Table Join datasets: 
-* [CT2010](data/demographics/tableJoin/CT2010/) = shapefile contatining census tract boundaries for 2010
-* [nhgis_RaceCT](data/demographics/tableJoin/nhgis_RaceCT.csv) = CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts 
+* [CT2010](data/demographics/tableJoin/CT2010/) = shapefile containing census tract boundaries for 2010
+* [nhgis_RaceCT](data/demographics/tableJoin/nhgis_RaceCT.csv) = CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts (there is a also a .csvt file that accompnies this file)
 
 Housing & Evictions:
 * [CodeEnf](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinates
@@ -56,14 +59,14 @@ Housing & Evictions:
 * [subhousing](data/housing/mdha.geojson) = GEOJSON containing locations of subsidized housing
 
 Police data: 
-* [policeReports](data/police/policeReports.geojson) = EOJSON containting reported police incidents 2020 
+* [policeReports](data/police/policeReports.geojson) = GEOJSON containing reported police incidents 2020 
 * [policeVehStops2022](data/police/PoliceVehStops2022.csv) = CSV file containing police vehicle stops for 2022, with lat and long coordinates 
 
 Extra data:
-* [DavidsonCnty](data/extra/DavidsonCnty.geojson) = GEOJSON containting the outline of Davidson County 
-* [HighwaysDC](data/extra/HighwaysDC.geojson) = GEOJSON containting highways 
-* [MetroParks](data/extra/MetroParks.geojson) = GEOJSON containting Metro Parks 
-* [StreetsDC](data/extra/StreetsDC.geojson) = GEOJSON containting streets  
+* [DavidsonCnty](data/extra/DavidsonCnty.geojson) = GEOJSON containing the outline of Davidson County 
+* [HighwaysDC](data/extra/HighwaysDC.geojson) = GEOJSON containing highways 
+* [MetroParks](data/extra/MetroParks.geojson) = GEOJSON containing Metro Parks 
+* [StreetsDC](data/extra/StreetsDC.geojson) = GEOJSON containing streets  
 
 Note: GEOJSONS are like shapefiles, but are condensed into one file. Thus, they are easier to managage, though you still need to protect your file paths!  
 
@@ -71,7 +74,8 @@ Note: GEOJSONS are like shapefiles, but are condensed into one file. Thus, they 
 
 Data sources: 
 * [Nashville open data portal](https://data.nashville.gov/)
-* [NHGIS census data](https://www.nhgis.org/)
+* [Census data](https://data.census.gov/)
+* [NHGIS historic census data](https://www.nhgis.org/)
 * [Natural earth data](https://www.naturalearthdata.com/)
 * [Redlining boundaries](https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore)
 
@@ -84,7 +88,7 @@ Design support / inspiration:
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
  
 --------------- 
-Emily Barrett, in partnership with Stacy Curry-Johnson, Natalie Robbins 
+Emily Barrett, in partnership with Stacy Curry-Johnson and Natalie Robbins 
 
 
  
