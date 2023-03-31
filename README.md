@@ -26,7 +26,7 @@ Part 2:
 * [UCLA Luskin Institute of Inequality and Democracy](https://challengeinequality.luskin.ucla.edu/property-police/)
 
 Nashville / Tennessee focused:
-* [Housing segregation](https://storymaps.arcgis.com/stories/050e09fabed0474b9687525fbc4e4c9a)
+* [Housing segregation in Nashville](https://storymaps.arcgis.com/stories/050e09fabed0474b9687525fbc4e4c9a)
 * [Tennessee's African American Neighborhoods](https://tnlibarchives.maps.arcgis.com/apps/MapSeries/index.html?appid=8dba65584072450ca8928a5f3408373f)
 * [Landscape of Liberation](https://tnmap.tn.gov/civilwar/freedmen/)
 
@@ -35,6 +35,9 @@ Nashville / Tennessee focused:
 
 ## Workshop data: 
 
+Within the 
+
+Within the _data/_ directory you'll find a folder named [_CT2010_](data/CT2010/)
 
 ## Additional resources: 
 
@@ -49,10 +52,7 @@ Tech support:
 
 Design support / inspiration: 
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
-
-
-
-
+ 
 
 --------------- 
 Emily Barrett, in partnership with Stacy Curry-Johnson, Natalie Robbins 
