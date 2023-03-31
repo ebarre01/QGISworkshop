@@ -8,7 +8,7 @@ Workshop objectives:
 Part 1: 
 * Racialized geographies 101
 * Tutorial: QGIS foundations & best data practices 
-* Goal: Download data & save map for next session 
+* Goal: Download & import data, including computing a table join. Save map project for next session
 
 Part 2:
 * Cartography 101
