@@ -44,14 +44,21 @@ Within the [_data_](data/) folder you'll find the following datasets:
 Demographic data: 
 * Shapefile contatining census tract boundaries for 2010 [_CT2010_](data/CT2010/)
 * CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts 
+* GEOJSON containing select demographic data (race, income, education, renter) for 2021 (ACS 5 yr estimates), at the census block group level 
 
 Housing & Evictions:
-* CSV file containing a random sample of evictions 2021-2022, with lat and long coordinate 
-* GEOJSON containing eviction rates 2001 - 2016, at the block group level 
-* CSV file containing code enforcement citations, with lat and long coordinatess
-* GEOJSON containing locations of subsidized housing 
-* GEOJSON containing locations of MDHA owned properties (and vacant land)
-* GEOJSON containing the HOLC (redlining) boundaries 
+* [_CodeEnf_](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinatess 
+* [_EvctRatesBG_](data/housing/EvctRatesBG.geojson) = GEOJSON containing eviction rates 2001 - 2016, at the block group level 
+* 
+
+
+
+= CSV file containing a random sample of evictions 2021-2022, with lat and long coordinate 
+* [_CT2010_](data/CT2010/)
+* [_CT2010_](data/CT2010/)
+* [_CT2010_](data/CT2010/)GEOJSON containing locations of subsidized housing 
+* [_CT2010_](data/CT2010/)GEOJSON containing locations of MDHA owned properties (and vacant land)
+*[_CT2010_](data/CT2010/) GEOJSON containing the HOLC (redlining) boundaries 
 
 Police data: 
 * CSV file containing police vehicle stops for 2022, with lat and long coordinates. 
