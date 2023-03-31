@@ -39,7 +39,7 @@ Nashville / Tennessee focused:
 
 ## Workshop data: 
 
-Within the [_data_](data/) folder you'll find the following datasets: 
+Within the [data](data/) folder you'll find the following datasets: 
 
 Demographic data: 
 * Shapefile contatining census tract boundaries for 2010 [_CT2010_](data/CT2010/)
@@ -48,17 +48,11 @@ Demographic data:
 
 Housing & Evictions:
 * [CodeEnf](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinatess 
-* [_EvctRatesBG_](data/housing/EvctRatesBG.geojson) = GEOJSON containing eviction rates 2001 - 2016, at the block group level 
-* 
-
-
-
-= CSV file containing a random sample of evictions 2021-2022, with lat and long coordinate 
-* [_CT2010_](data/CT2010/)
-* [_CT2010_](data/CT2010/)
-* [_CT2010_](data/CT2010/)GEOJSON containing locations of subsidized housing 
-* [_CT2010_](data/CT2010/)GEOJSON containing locations of MDHA owned properties (and vacant land)
-*[_CT2010_](data/CT2010/) GEOJSON containing the HOLC (redlining) boundaries 
+* [EvctRatesBG](data/housing/EvctRatesBG.geojson) = GEOJSON containing eviction rates 2001 - 2016, at the block group level 
+* [Evictions2021](data/housing/Evictions2021.csv) = CSV file containing a random sample of evictions 2021-2022, with lat and long coordinates
+* [HOLC](data/housing/HOLC.geojson) = GEOJSON containing the HOLC (redlining) boundaries 
+* [mdha](data/housing/mdha.geojson) = GEOJSON containing locations of MDHA owned properties (and vacant land)
+* [subhousing](data/housing/mdha.geojson) = GEOJSON containing locations of subsidized housing
 
 Police data: 
 * CSV file containing police vehicle stops for 2022, with lat and long coordinates. 
