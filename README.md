@@ -27,7 +27,7 @@ Part 2:
 * [UCLA Luskin Institute of Inequality and Democracy](https://challengeinequality.luskin.ucla.edu/property-police/)
 * [Native Land Digital](https://native-land.ca/)
 * [Mapping Indigenous LA](https://www.arcgis.com/apps/MapJournal/index.html?appid=a9e370db955a45ba99c52fb31f31f1fc)
-* [Native Land Information System](https://nativeland.info/)
+* [Native Land Information System (NLIS)](https://nativeland.info/)
 
 Nashville / Tennessee focused:
 * [Housing segregation in Nashville](https://storymaps.arcgis.com/stories/050e09fabed0474b9687525fbc4e4c9a)
@@ -42,8 +42,18 @@ Nashville / Tennessee focused:
 Within the [_data_](data/) folder you'll find the following datasets: 
 
 * Shapefile contatining census tract boundaries for 2010 [_CT2010_](data/CT2010/)
-* CSV file containing racial demographic data for 1990-2020 
-* 
+* CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts  
+* CSV file containing police vehicle stops for 2022, with lat and long coordinates. 
+* CSV file containing evictions, with lat and long coordinate
+* CSV file containing code enforcement citations, with lat and long coordinatess
+
+
+* GEOJSON containing the HOLC (redlining) boundaries 
+* GEOJSON containting streets 
+* GEOJSON containting highways 
+
+
+Note: GEOJSONS are like shapefiles, but are condensed into one file. Thus, they are easier to managage, though you still need to protect your file paths!  
 
 ## Additional resources: 
 
