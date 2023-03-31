@@ -39,10 +39,10 @@ Nashville / Tennessee focused:
 ## Additional resources: 
 
 Data sources: 
-* Nashville open data portal: https://data.nashville.gov/
-* NHGIS census data: https://www.nhgis.org/ 
-* Natural earth data: https://www.naturalearthdata.com/
-* Redlining boundaries: https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore
+* [Nashville open data portal](https://data.nashville.gov/)
+* [NHGIS census data](https://www.nhgis.org/)
+* [Natural earth data](https://www.naturalearthdata.com/)
+* [Redlining boundaries](https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore)
 
 Tech support: 
 * Table join instructions: 
