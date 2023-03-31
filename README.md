@@ -35,7 +35,7 @@ Nashville / Tennessee focused:
 
 ## Workshop data: 
 
-Within the _data_ [data/] folder you'll find the following datasets: 
+Within the _data_ [_data_] folder you'll find the following datasets: 
 
 * Shapefile contatining census tract boundaries for 2010 [_CT2010_](data/CT2010/)
 *
