@@ -38,19 +38,24 @@ Nashville / Tennessee focused:
 
 ## Additional resources: 
 
-* Table join instructions: 
+Data sources: 
+* Nashville open data portal: https://data.nashville.gov/
 * NHGIS census data: https://www.nhgis.org/ 
 * Natural earth data: https://www.naturalearthdata.com/
 * Redlining boundaries: https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore
+
+Tech support: 
+* Table join instructions: 
+
+Design support: 
 * Color schemes: https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
-* Nashville open data portal: https://data.nashville.gov/
 
 
 
 
 
 --------------- 
-Emily Barrett, Stacy Curry-Johnson, Natalie Robbins 
+Emily Barrett, in partnership with Stacy Curry-Johnson, Natalie Robbins 
 
 
  
