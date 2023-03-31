@@ -47,7 +47,7 @@ Demographic data:
 * GEOJSON containing select demographic data (race, income, education, renter) for 2021 (ACS 5 yr estimates), at the census block group level 
 
 Housing & Evictions:
-* [_CodeEnf_](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinatess 
+* [CodeEnf](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinatess 
 * [_EvctRatesBG_](data/housing/EvctRatesBG.geojson) = GEOJSON containing eviction rates 2001 - 2016, at the block group level 
 * 
 
