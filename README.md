@@ -41,17 +41,27 @@ Nashville / Tennessee focused:
 
 Within the [_data_](data/) folder you'll find the following datasets: 
 
+Demographic data: 
 * Shapefile contatining census tract boundaries for 2010 [_CT2010_](data/CT2010/)
-* CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts  
-* CSV file containing police vehicle stops for 2022, with lat and long coordinates. 
-* CSV file containing evictions, with lat and long coordinate
+* CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts 
+
+Housing & Evictions:
+* CSV file containing a random sample of evictions 2021-2022, with lat and long coordinate 
+* GEOJSON containing eviction rates 2001 - 2016, at the block group level 
 * CSV file containing code enforcement citations, with lat and long coordinatess
-
-
+* GEOJSON containing locations of subsidized housing 
+* GEOJSON containing locations of MDHA owned properties (and vacant land)
 * GEOJSON containing the HOLC (redlining) boundaries 
-* GEOJSON containting streets 
-* GEOJSON containting highways 
 
+Police data: 
+* CSV file containing police vehicle stops for 2022, with lat and long coordinates. 
+* GEOJSON containting reported police incidents 2020
+
+Extra data:
+* GEOJSON containting streets  
+* GEOJSON containting highways 
+* GEOJSON containting Metro Parks 
+* GEOJSON containting the outline of Davidson County 
 
 Note: GEOJSONS are like shapefiles, but are condensed into one file. Thus, they are easier to managage, though you still need to protect your file paths!  
 
@@ -71,7 +81,6 @@ Tech support:
 Design support / inspiration: 
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
  
-
 --------------- 
 Emily Barrett, in partnership with Stacy Curry-Johnson, Natalie Robbins 
 
