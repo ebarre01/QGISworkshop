@@ -6,7 +6,7 @@ Workshop objectives:
 * Access additional resources to develop independent mapping projects 
 
 Part 1: 
-* Racialized geographies 101
+* Racialized uneven development 101
 * Tutorial: QGIS foundations & best data management practices 
 * Goal: Download & import data 
 
@@ -29,7 +29,7 @@ The slides for the workshop can be found [here](https://www.canva.com/design/DAF
 * [LA million dollar hoods](https://milliondollarhoods.pre.ss.ucla.edu/)
 * [Interstate highway construction](https://www.nbcnews.com/specials/america-highways-inequality/)
 * [Anti-eviction mapping project](https://antievictionmap.com/)
-* [UCLA Luskin Institute of Inequality and Democracy](https://challengeinequality.luskin.ucla.edu/property-police/)
+* [Property, Police & Personhood](https://challengeinequality.luskin.ucla.edu/property-police/)
 * [Native Land Digital](https://native-land.ca/)
 * [Mapping Indigenous LA](https://www.arcgis.com/apps/MapJournal/index.html?appid=a9e370db955a45ba99c52fb31f31f1fc)
 * [Native Land Information System (NLIS)](https://nativeland.info/)
@@ -85,6 +85,8 @@ Tech support:
 * [Table join instructions](QGISTableJoins_2023.pdf) 
 * [Converting text attribute values to number](https://mapscaping.com/converting-text-to-numbers-in-qgis/)
 * Creating a [dot density map](https://youtu.be/TOY_7xKtTcU) with demographic data 
+* [Map projections](https://pubs.usgs.gov/gip/70047422/report.pdf) 
+* [Working with projections in QGIS](https://docs.qgis.org/3.28/en/docs/user_manual/working_with_projections/working_with_projections.html)
 
 Design support / inspiration: 
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
