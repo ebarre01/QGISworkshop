@@ -6,12 +6,12 @@ Workshop objectives:
 * Access additional resources to develop independent mapping projects 
 
 Part 1: 
-* Racialized uneven development 101
+* Content: Racialized uneven development 101
 * Tutorial: QGIS foundations & best data management practices 
 * Goal: Download & import data 
 
 Part 2:
-* Cartography 101
+* Content: Cartography 101
 * Tutorial: Visualizing spatial data & basic design principles 
 * Goal: Create map & spatial narrative 
 
@@ -60,33 +60,33 @@ Housing & Evictions data:
 * [subhousing](data/housing/mdha.geojson) = GEOJSON containing locations of subsidized housing
 
 Police data: 
-* [policeReports](data/police/policeReports.geojson) = GEOJSON containing reported police incidents 2020 
+* [policeReports](data/police/policeReports.geojson) = GEOJSON containing reported police incidents for 2020 
 * [policeVehStops2022](data/police/PoliceVehStops2022.csv) = CSV file containing police vehicle stops for 2022, with lat and long coordinates 
 
 Extra data:
 * [DavidsonCnty](data/extra/DavidsonCnty.geojson) = GEOJSON containing the outline of Davidson County 
-* [HighwaysDC](data/extra/HighwaysDC.geojson) = GEOJSON containing highways 
-* [MetroParks](data/extra/MetroParks.geojson) = GEOJSON containing Metro Parks 
-* [StreetsDC](data/extra/StreetsDC.geojson) = GEOJSON containing streets  
+* [HighwaysDC](data/extra/HighwaysDC.geojson) = GEOJSON containing highways in Davidson County 
+* [MetroParks](data/extra/MetroParks.geojson) = GEOJSON containing Metro Nashville Parks 
+* [StreetsDC](data/extra/StreetsDC.geojson) = GEOJSON containing streets in Davidson County   
 
 Note: GEOJSONS are like shapefiles, but are condensed into one file. Thus, they are easier to managage, though you still need to protect your file paths!  
 
 ## Additional resources: 
 
 Data sources: 
-* [Nashville open data portal](https://data.nashville.gov/)
+* [Nashville open data portal](https://data.nashville.gov/) 
 * [Census data](https://data.census.gov/)
 * [NHGIS historic census data](https://www.nhgis.org/)
-* [Natural earth data](https://www.naturalearthdata.com/)
-* [Redlining boundaries](https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore)
+* [Natural earth data](https://www.naturalearthdata.com/) - for your basic shapefiles (like lakes, state boundaries, major cities etc.)
+* [Redlining boundaries](https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore) 
 
 Tech support: 
 * [Download and install QGIS](https://docs.google.com/document/d/1E-CC5uFhqbHIgEhzM1LlcSuYSy4vJfr7VQvFQj_OOhc/edit)
 * [Table join instructions](QGISTableJoins_2023.pdf) 
-* [Converting text attribute values to number](https://mapscaping.com/converting-text-to-numbers-in-qgis/)
+* [Converting text attribute values to number](https://mapscaping.com/converting-text-to-numbers-in-qgis/) - when your csvt file fails 
 * Creating a [dot density map](https://youtu.be/TOY_7xKtTcU) with demographic data 
-* [Map projections](https://pubs.usgs.gov/gip/70047422/report.pdf) 
-* [Working with projections in QGIS](https://docs.qgis.org/3.28/en/docs/user_manual/working_with_projections/working_with_projections.html)
+* [Map projections 101](https://pubs.usgs.gov/gip/70047422/report.pdf) 
+* [Working with projections in QGIS](https://docs.qgis.org/3.28/en/docs/user_manual/working_with_projections/working_with_projections.html) 
 
 Design support / inspiration: 
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
