@@ -15,6 +15,11 @@ Part 2:
 * Tutorial: Visualizing spatial data & basic design principles 
 * Goal: Create map & spatial narrative 
 
+## Workshop slides: 
+
+The slides for the workshop can be found [here](https://www.canva.com/design/DAFerwZ2bvE/ZI7wwOpSGka9PszxWtor_w/view?utm_content=DAFerwZ2bvE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+).
+
 ## Links to example mapping projects: 
 
 * [Mapping prejudice](https://mappingprejudice.umn.edu/)
@@ -35,17 +40,13 @@ Nashville / Tennessee focused:
 * [Landscape of Liberation](https://tnmap.tn.gov/civilwar/freedmen/)
 
 
-## Workshop slides: 
-
-The slides for the workshop can be found [here](https://www.canva.com/design/DAFerwZ2bvE/ZI7wwOpSGka9PszxWtor_w/view?utm_content=DAFerwZ2bvE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-).
-
 ## Workshop data: 
 
 Within the data folder you'll find the following datasets: 
 
 Demographic data: 
 * [Dem2021BG](data/demographics/Dem2021BG.geojson) = GEOJSON containing select demographic data (race, income, education, rental households) for 2021 (ACS 5 yr estimates), at the census block group level
+
 Table Join datasets: 
 * [CT2010](data/demographics/tableJoin/CT2010/) = shapefile containing census tract boundaries for 2010
 * [nhgis_RaceCT](data/demographics/tableJoin/nhgis_RaceCT.csv) = CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts (there is a also a .csvt file that accompnies this file)
