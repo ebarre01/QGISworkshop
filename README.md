@@ -77,19 +77,19 @@ Data sources:
 * [Nashville open data portal](https://data.nashville.gov/) 
 * [Census data](https://data.census.gov/)
 * [NHGIS historic census data](https://www.nhgis.org/)
-* [Natural earth data](https://www.naturalearthdata.com/) - for your basic shapefiles (like lakes, state boundaries, major cities etc.)
+* [Natural earth data](https://www.naturalearthdata.com/downloads/) - for your basic shapefiles (like lakes, state boundaries, major cities etc.)
 * [Redlining boundaries](https://chesapeake-deij2-chesbay.hub.arcgis.com/documents/holc-redlining-mapping-inequality/explore) 
 
 Tech support: 
 * [Download and install QGIS](https://docs.google.com/document/d/1E-CC5uFhqbHIgEhzM1LlcSuYSy4vJfr7VQvFQj_OOhc/edit)
 * [Table join instructions](QGISTableJoins_2023.pdf) 
 * [Converting text attribute values to number](https://mapscaping.com/converting-text-to-numbers-in-qgis/) - when your csvt file fails 
-* Creating a [dot density map](https://youtu.be/TOY_7xKtTcU) with demographic data 
 * [Map projections 101](https://pubs.usgs.gov/gip/70047422/report.pdf) 
 * [Working with projections in QGIS](https://docs.qgis.org/3.28/en/docs/user_manual/working_with_projections/working_with_projections.html) 
 
 Design support / inspiration: 
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+* Creating a [dot density map](https://youtu.be/TOY_7xKtTcU) with demographic data 
  
 --------------- 
 Emily Barrett, in partnership with Stacy Curry-Johnson and Natalie Robbins 
