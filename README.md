@@ -83,6 +83,7 @@ Data sources:
 Tech support: 
 * [Download and install QGIS](https://docs.google.com/document/d/1E-CC5uFhqbHIgEhzM1LlcSuYSy4vJfr7VQvFQj_OOhc/edit)
 * [Table join instructions](QGISTableJoins_2023.pdf) 
+* [Working with csvt file](CSVTfiles.pdf)
 * [Converting text attribute values to number](https://mapscaping.com/converting-text-to-numbers-in-qgis/) - when your csvt file fails & you need to change the data formatting 
 * [Map projections 101](https://pubs.usgs.gov/gip/70047422/report.pdf) 
 * [Working with projections in QGIS](https://docs.qgis.org/3.28/en/docs/user_manual/working_with_projections/working_with_projections.html) 
