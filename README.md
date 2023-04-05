@@ -98,6 +98,9 @@ Tech support:
 Design support / inspiration: 
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 * Creating a [dot density map](https://youtu.be/TOY_7xKtTcU) with demographic data 
+
+Workshop experience survey: Please let me know how you found the workshop! 
+* [Exit survey link](https://forms.gle/c5VsdFS7HFaHkbto7)
  
 --------------- 
 Emily Barrett, in partnership with Stacy Curry-Johnson and Natalie Robbins 
