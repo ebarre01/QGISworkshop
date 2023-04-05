@@ -51,6 +51,10 @@ Table Join datasets:
 * [CT2010](data/demographics/tableJoin/CT2010/) = shapefile containing census tract boundaries for 2010
 * [nhgis_RaceCT](data/demographics/tableJoin/nhgis_RaceCT.csv) = CSV file containing racial demographic data for 1990-2020, standardized to 2010 census tracts (there is a also a .csvt file that accompnies this file)
 
+* If you have any issues with the table join, you can find the dataset [here](data/demographics/tableJoin/finalJoin/NHGIS_RaceCT.geojson)
+
+Within the finalJoin folder you will find a GEOJSON that has the successful join for this data. 
+
 Housing & Evictions data:
 * [CodeEnf](data/housing/CodeEnf.csv) = CSV file containing code enforcement violations, with lat and long coordinates
 * [EvctRatesBG](data/housing/EvctRatesBG.geojson) = GEOJSON containing eviction rates from 2001 - 2016, at the block group level 
