@@ -59,11 +59,6 @@ Housing & Evictions data:
 * [mdha](data/housing/mdha.geojson) = GEOJSON containing locations of MDHA owned properties (and vacant land)
 * [subhousing](data/housing/mdha.geojson) = GEOJSON containing locations of subsidized housing
 
-Infrastructure data: 
-*[ADA compliance of pedestrian signals](https://data.nashville.gov/Transportation/Pedestrian-Signal-Inventory-and-ADA-Self-Assessmen/6xet-f7u7)
-* [ADA sidewalk inventory](https://data.nashville.gov/Transportation/Sidewalk-Inventory-for-ADA-Self-Assessment/vpxc-b5te)
-* [Bike racks](https://data.nashville.gov/Transportation/Bike-Racks-GIS-/3wu7-dwzr)
-
 Police data: 
 * [policeReports](data/police/policeReports.geojson) = GEOJSON containing reported police incidents for 2020 
 * [policeVehStops2022](data/police/PoliceVehStops2022.csv) = CSV file containing police vehicle stops for 2022, with lat and long coordinates 
@@ -73,6 +68,11 @@ Extra data:
 * [HighwaysDC](data/extra/HighwaysDC.geojson) = GEOJSON containing highways in Davidson County 
 * [MetroParks](data/extra/MetroParks.geojson) = GEOJSON containing Metro Nashville Parks 
 * [StreetsDC](data/extra/StreetsDC.geojson) = GEOJSON containing streets in Davidson County   
+
+Infrastructure data (can be downloaded from Nashville's open data portal): 
+* [ADA compliance of pedestrian signals](https://data.nashville.gov/Transportation/Pedestrian-Signal-Inventory-and-ADA-Self-Assessmen/6xet-f7u7)
+* [ADA sidewalk inventory](https://data.nashville.gov/Transportation/Sidewalk-Inventory-for-ADA-Self-Assessment/vpxc-b5te)
+* [Bike racks](https://data.nashville.gov/Transportation/Bike-Racks-GIS-/3wu7-dwzr)
 
 Note: GEOJSONS are like shapefiles, but are condensed into one file. Thus, they are easier to managage, though you still need to protect your file paths!  
 
