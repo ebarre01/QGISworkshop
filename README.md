@@ -97,6 +97,7 @@ Tech support:
 
 Design support / inspiration: 
 * [Color schemes](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+* [Enumeration, Normalization & Classifcation](https://gistbok.ucgis.org/bok-topics/statistical-mapping-enumeration-normalization-classification)
 * Creating a [dot density map](https://youtu.be/TOY_7xKtTcU) with demographic data 
 
 ## Workshop experience survey: 
